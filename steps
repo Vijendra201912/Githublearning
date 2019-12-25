@@ -1,0 +1,17 @@
+//set identity using command
+git config --global user.email "vijendra.rai.viju@gmail.com"
+git config --global user.name "vijendra"
+
+step 1 git init //for set git projrct 
+step 2 git status //check project in stagging area
+step 3 git add {filename} || -A 
+		/*
+		add spacific file using git add 'index.html'
+		add all files in stagging area using git add '-A'
+		*/
+step 4 git commit -m "massage" 
+step 5 git remote add origin reponame
+			/* 
+			(linking git project with own project)
+			reponame is cloning url 'https://github.com/Vijendra201912/Githublearning.git'
+			*/
