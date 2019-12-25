@@ -15,3 +15,6 @@ step 5 git remote add origin reponame
 			(linking git project with own project)
 			reponame is cloning url 'https://github.com/Vijendra201912/Githublearning.git'
 			*/
+step 6 git push origin master
+step 7 git clone reponame
+step 8 git pull origin master
